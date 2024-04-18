@@ -10,7 +10,7 @@ Command Prompt And Network Protocol Analyzer
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer.</br>
 All commands related to Network configuration which includes how to switch to privilege mode and normal mode and how to configure router interface and how to save this configuration to
 flash memory or permanent memory.</br>
-This commands includes
+This commands includes</br>
 • Configuring the Router commands</br>
 • General Commands to configure network</br>
 • Privileged Mode commands of a router</br>
